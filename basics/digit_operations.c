@@ -3,6 +3,10 @@
 a. Display face value of each decimal digit
 b. Display place value of each decimal digit
 c. Display no in reverse order by changing decimal place values
+
+a. 9      3       6     1
+b. 9361 = 9 000 + 300 + 60 + 9
+c. 1639
 */
 
 
