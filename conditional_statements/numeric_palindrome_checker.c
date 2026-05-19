@@ -11,7 +11,7 @@ int main() {
     printf("Enter 5 digit Num: ");
     scanf("%d", &num);
 
-    if (num < 9999 || num > 99999)
+    if (num < 10000 || num > 99999)
     {
             printf("Invalid Input !!\n");
             return -1;
