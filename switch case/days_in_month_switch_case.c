@@ -15,6 +15,7 @@ int main() {
     if (month < 1 || month > 12)
     {
             printf("Invalid Month!!  Try again...\n");
+            return 1;
     }
     printf("Enter Year : ");
     scanf("%d",&year);
