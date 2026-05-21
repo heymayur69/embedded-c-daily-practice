@@ -21,13 +21,11 @@ int main() {
 
 int original = num;
 
-    int i = 0;
     while (num != 0)
     {
         int digit = num % 10 ;
         arm = arm + (digit * digit * digit);
         num = num / 10;
-        i++;
     }
     if (arm == original)
     {

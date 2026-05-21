@@ -33,7 +33,5 @@ int main() {
         i++;
     }
     printf(": %d\n",sum);
-    printf("\n");
-    
     return 0;
 }
